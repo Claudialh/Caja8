@@ -1,0 +1,21 @@
+div{
+background-color: purple;
+border: 1px black solid;
+height: 100px;
+width: 100px;
+margin: 5px;
+}
+.contorno{
+	height: 150px;
+	width: 365px !important;
+	margin: 20px;
+
+}
+.alineados{
+	display: inline-block;
+}
+
+
+	
+
+
